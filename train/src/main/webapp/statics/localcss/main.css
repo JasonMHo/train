@@ -1,0 +1,7 @@
+.modal-body .topul,.member-modal-body .topul{list-style: none;margin-left:-10px;}
+.modal-body .topul li,.member-modal-body .topul li{width:250px;float: left;}
+.modal-body .topul li input,.member-modal-body .topul li input{width:150px;}
+.modal-body .topul li label,.member-modal-body .topul li label{width:80px;float:left;text-align: right;}
+.modal-body .topul .lastli,.member-modal-body .topul .lastli{position: relative;height: 80px;}
+
+
